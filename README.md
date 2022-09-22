@@ -7,13 +7,13 @@
 
 * 开始界面
 
-![](rim0e6xvw.hn-bkt.clouddn.com/img/begin.png)
+![](md-img/begin.png)
 
 * 游戏开始
 
-![](rim0e6xvw.hn-bkt.clouddn.com/img/1.png)
+![](md-img/1.png)
 
 * 游戏中
 
-![](rim0e6xvw.hn-bkt.clouddn.com/img/2.png)
+![](md-img/2.png)
 
