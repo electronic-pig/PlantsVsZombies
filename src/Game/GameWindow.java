@@ -1,7 +1,6 @@
 package Game;
 
 import javax.swing.*;
-import java.io.File;
 
 //游戏开始执行类
 public class GameWindow {
