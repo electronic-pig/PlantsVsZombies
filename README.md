@@ -10,13 +10,16 @@
 
 * 开始界面
 
-![](md-img/begin.png)
+<img width="676" alt="begin" src="https://github.com/electronic-pig/PlantsVsZombies/assets/103497254/44dfd564-6b6e-4985-99bd-bbee48948140">
 
 * 游戏开始
 
-![](md-img/1.png)
+<img width="952" alt="1" src="https://github.com/electronic-pig/PlantsVsZombies/assets/103497254/7ac51eaf-6726-4e93-a071-90ef15d918c4">
+
 
 * 游戏中
 
-![](md-img/2.png)
+<img width="952" alt="1" src="https://github.com/electronic-pig/PlantsVsZombies/assets/103497254/53bb416e-ec23-462f-b3c5-a90489920c6a">
+
+
 
