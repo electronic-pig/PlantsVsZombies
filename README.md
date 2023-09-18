@@ -1,4 +1,8 @@
 # PlantsVsZombies
+![GitHub](https://img.shields.io/github/license/electronic-pig/PlantsVsZombies)
+![Static Badge](https://img.shields.io/badge/contributors-2-green)
+![GitHub Repo stars](https://img.shields.io/github/stars/electronic-pig/PlantsVsZombies)
+
 > :rocket:与室友合作开发的一个简易的植物大战僵尸游戏
 >
 > :rocket:复刻了原版游戏的大多数功能，包含最基本的几种植物和僵尸
