@@ -39,7 +39,7 @@ public class GameWindow {
         gameWindow.setResizable(false);//设置窗口大小不可调整
     }
 
-    //游戏失败
+    //游戏失败+音乐
     public static void gameEnd() {
         gameWindow.dispose();
         System.gc();
@@ -53,7 +53,7 @@ public class GameWindow {
         gameWindow.add(gamePlay);
     }
 
-    //游戏胜利
+    //游戏胜利+音乐
     public static void gameWin() {
         gameWindow.dispose();
         System.gc();
