@@ -1,6 +1,6 @@
 # PlantsVsZombies
 ![GitHub](https://img.shields.io/github/license/electronic-pig/PlantsVsZombies)
-![Static Badge](https://img.shields.io/badge/contributors-2-green)
+![GitHub contributors](https://img.shields.io/github/contributors/electronic-pig/PlantsVsZombies)
 ![GitHub Repo stars](https://img.shields.io/github/stars/electronic-pig/PlantsVsZombies)
 
 ## 项目介绍
