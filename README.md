@@ -28,8 +28,8 @@
 <img width="953" alt="2" src="https://github.com/electronic-pig/PlantsVsZombies/assets/103497254/fe665dc8-7746-4d43-80dd-a908460fffc1">
 
 ## 项目参与者
-<a href="https://github.com/electronic-pig/PlantsVsZombies/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=electronic-pig/PlantsVsZombies" />
+<a href="https://github.com/electronic-pig/PlantsvsZombies/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=electronic-pig/PlantsvsZombies" />
 </a>
 
 
